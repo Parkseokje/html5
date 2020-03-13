@@ -6,3 +6,8 @@
 $ yarn install
 ```
 
+## Branches
+
+- Minimal Scaffolding: `webpack-basic`
+- Minimal Typescript Scaffolding: `webpack-typescript`
+
